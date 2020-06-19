@@ -1,10 +1,10 @@
-# estpload
+# esloadtpl
 
 load template JSON files to elasticsearch
 
 ## Get
 
-`docker pull guoyk/estpload`
+`docker pull guoyk/esloadtpl`
 
 ## Usage
 

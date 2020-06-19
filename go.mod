@@ -1,4 +1,4 @@
-module github.com/guoyk93/estpload
+module github.com/guoyk93/esloadtpl
 
 go 1.14
 
